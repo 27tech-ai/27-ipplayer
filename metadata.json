@@ -1,0 +1,6 @@
+{
+  "name": "27-ipplayer",
+  "description": "Minimalist IPTV player for Mobile and Android TV supporting M3U/M3U8 playlists, Xtream Codes, and Media3 streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
